@@ -1,0 +1,13 @@
+Variables: contenedores donde puedo asignar numeros o cadenas de texto
+
+Strings: cadenas de texto 
+
+Funciones (argumentos, return): cuando es llamada, ejecuta lo que hay dentro de ella
+                    
+                    argumentos: datos de entrada para las funciones 
+
+                    return: se usa dentro de las funciones para que devuelva datos
+
+Declaraciones if: si la condicion es verdadera se ejecuta el codigo que hay dentro de las llaves del if.
+
+Valores booleanos (true, false): valores logicos (1,0) o valores para decir si algo es verdadero o falso.
